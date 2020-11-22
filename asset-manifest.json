@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/WhatTimeIsItRightNow.io/static/css/main.2596bbe1.chunk.css",
-    "main.js": "/WhatTimeIsItRightNow.io/static/js/main.0e11fb7b.chunk.js",
-    "main.js.map": "/WhatTimeIsItRightNow.io/static/js/main.0e11fb7b.chunk.js.map",
-    "runtime-main.js": "/WhatTimeIsItRightNow.io/static/js/runtime-main.6c45ebbb.js",
-    "runtime-main.js.map": "/WhatTimeIsItRightNow.io/static/js/runtime-main.6c45ebbb.js.map",
-    "static/js/2.5a1014d5.chunk.js": "/WhatTimeIsItRightNow.io/static/js/2.5a1014d5.chunk.js",
-    "static/js/2.5a1014d5.chunk.js.map": "/WhatTimeIsItRightNow.io/static/js/2.5a1014d5.chunk.js.map",
-    "index.html": "/WhatTimeIsItRightNow.io/index.html",
-    "static/css/main.2596bbe1.chunk.css.map": "/WhatTimeIsItRightNow.io/static/css/main.2596bbe1.chunk.css.map",
-    "static/js/2.5a1014d5.chunk.js.LICENSE.txt": "/WhatTimeIsItRightNow.io/static/js/2.5a1014d5.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/WhatTimeIsItRightNow.io/static/media/Raleway-Bold.d1a96e2a.ttf",
-    "static/media/Philbert_Opening.6f29b239.mp4": "/WhatTimeIsItRightNow.io/static/media/Philbert_Opening.6f29b239.mp4",
-    "static/media/Philbert_thumbnail.5be45690.jpg": "/WhatTimeIsItRightNow.io/static/media/Philbert_thumbnail.5be45690.jpg",
-    "static/media/WhatTimeIsItRightNow_Original_series_logo.dc8a522c.png": "/WhatTimeIsItRightNow.io/static/media/WhatTimeIsItRightNow_Original_series_logo.dc8a522c.png",
-    "static/media/WhatTimeIsItRightNow_logo.a66a8a22.png": "/WhatTimeIsItRightNow.io/static/media/WhatTimeIsItRightNow_logo.a66a8a22.png"
+    "main.css": "/WhatTimeIsItRightNow/static/css/main.a30a7a5b.chunk.css",
+    "main.js": "/WhatTimeIsItRightNow/static/js/main.0e11fb7b.chunk.js",
+    "main.js.map": "/WhatTimeIsItRightNow/static/js/main.0e11fb7b.chunk.js.map",
+    "runtime-main.js": "/WhatTimeIsItRightNow/static/js/runtime-main.68d5f712.js",
+    "runtime-main.js.map": "/WhatTimeIsItRightNow/static/js/runtime-main.68d5f712.js.map",
+    "static/js/2.5a1014d5.chunk.js": "/WhatTimeIsItRightNow/static/js/2.5a1014d5.chunk.js",
+    "static/js/2.5a1014d5.chunk.js.map": "/WhatTimeIsItRightNow/static/js/2.5a1014d5.chunk.js.map",
+    "index.html": "/WhatTimeIsItRightNow/index.html",
+    "static/css/main.a30a7a5b.chunk.css.map": "/WhatTimeIsItRightNow/static/css/main.a30a7a5b.chunk.css.map",
+    "static/js/2.5a1014d5.chunk.js.LICENSE.txt": "/WhatTimeIsItRightNow/static/js/2.5a1014d5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/WhatTimeIsItRightNow/static/media/Raleway-Bold.d1a96e2a.ttf",
+    "static/media/Philbert_Opening.6f29b239.mp4": "/WhatTimeIsItRightNow/static/media/Philbert_Opening.6f29b239.mp4",
+    "static/media/Philbert_thumbnail.5be45690.jpg": "/WhatTimeIsItRightNow/static/media/Philbert_thumbnail.5be45690.jpg",
+    "static/media/WhatTimeIsItRightNow_Original_series_logo.dc8a522c.png": "/WhatTimeIsItRightNow/static/media/WhatTimeIsItRightNow_Original_series_logo.dc8a522c.png",
+    "static/media/WhatTimeIsItRightNow_logo.a66a8a22.png": "/WhatTimeIsItRightNow/static/media/WhatTimeIsItRightNow_logo.a66a8a22.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c45ebbb.js",
+    "static/js/runtime-main.68d5f712.js",
     "static/js/2.5a1014d5.chunk.js",
-    "static/css/main.2596bbe1.chunk.css",
+    "static/css/main.a30a7a5b.chunk.css",
     "static/js/main.0e11fb7b.chunk.js"
   ]
 }
