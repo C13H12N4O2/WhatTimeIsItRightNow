@@ -1,0 +1,22 @@
+{
+  "name": "whattimeisitrightnow",
+  "version": "1.0.0",
+  "description": "WhatTimeIsItRightNow.com is an online platform in the Bojack Horseman universe.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest",
+    "api"
+  ],
+  "author": "C13H12N4O2",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

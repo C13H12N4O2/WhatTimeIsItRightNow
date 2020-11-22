@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5757938a.chunk.css",
+    "main.js": "/static/js/main.a5b9439a.chunk.js",
+    "main.js.map": "/static/js/main.a5b9439a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3fad0142.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3fad0142.js.map",
+    "static/js/2.5a1014d5.chunk.js": "/static/js/2.5a1014d5.chunk.js",
+    "static/js/2.5a1014d5.chunk.js.map": "/static/js/2.5a1014d5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5757938a.chunk.css.map": "/static/css/main.5757938a.chunk.css.map",
+    "static/js/2.5a1014d5.chunk.js.LICENSE.txt": "/static/js/2.5a1014d5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Raleway-Bold.d1a96e2a.ttf",
+    "static/media/Philbert_Opening.6f29b239.mp4": "/static/media/Philbert_Opening.6f29b239.mp4",
+    "static/media/Philbert_thumbnail.5be45690.jpg": "/static/media/Philbert_thumbnail.5be45690.jpg",
+    "static/media/WhatTimeIsItRightNow_Original_series_logo.dc8a522c.png": "/static/media/WhatTimeIsItRightNow_Original_series_logo.dc8a522c.png",
+    "static/media/WhatTimeIsItRightNow_logo.a66a8a22.png": "/static/media/WhatTimeIsItRightNow_logo.a66a8a22.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fad0142.js",
+    "static/js/2.5a1014d5.chunk.js",
+    "static/css/main.5757938a.chunk.css",
+    "static/js/main.a5b9439a.chunk.js"
+  ]
+}
