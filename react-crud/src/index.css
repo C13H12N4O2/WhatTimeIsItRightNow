@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'Orbitron';
+    src:
+        url('./font/Orbitron-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src:
+        url('./font/Raleway-Bold.ttf') format('truetype');
+}
+
+body {
+    margin: 0;
+}
+
+.logo {
+    display: block;
+    margin-top: 7%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    object-fit: contain;
+}
+
+.Clock {
+    font-family: 'Orbitron';
+    font-size: 225%;
+    margin-bottom: 30%;
+    text-align: center;
+    color: grey;
+    letter-spacing: 2px;
+    line-height: 1.25;
+}
+
+.OriginalSeries {
+    margin-bottom: 10%;
+}
+
+.OriginalSeriesLogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    object-fit: contain;
+}
+
+video {
+    display: block;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: contain;
+}
+
+.OriginalSeriesDetail {
+    font-family: 'Raleway';
+    margin-top: 7%;
+    font-size: 225%;
+    text-align: center;
+}
